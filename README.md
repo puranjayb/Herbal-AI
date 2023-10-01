@@ -34,12 +34,13 @@ This personal open-source project is designed to be a helpful tool for plant ent
 If you have a GPU then make sure to
 - Have latest drivers installed
 - Have CUDA ToolKit installed
-- Have cuDNN installed
+- Have cuDNN installed \
 Need help? \
 Follow [this](https://www.tensorflow.org/install/pip#windows-native)
 ```bash
   git clone https://github.com/puranjayb/Herbal-AI
-  cd Herbal-AI
+  cd .\Herbal-AI\Model\
+  python .\app.py
 ```
 
 Open terminal to install required files
